@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="MoodBattle icon">
+  <rect width="256" height="256" rx="48" fill="#fff7df"/>
+  <circle cx="128" cy="128" r="92" fill="#ffe66d" stroke="#241b18" stroke-width="14"/>
+  <circle cx="94" cy="108" r="14" fill="#241b18"/>
+  <circle cx="162" cy="108" r="14" fill="#241b18"/>
+  <path d="M82 151c22 24 70 24 92 0" fill="none" stroke="#241b18" stroke-width="14" stroke-linecap="round"/>
+  <path d="M42 62l34 10-24 26z" fill="#ff4f8b" stroke="#241b18" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M214 62l-34 10 24 26z" fill="#2dd4bf" stroke="#241b18" stroke-width="10" stroke-linejoin="round"/>
+</svg>
