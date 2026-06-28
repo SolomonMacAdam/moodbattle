@@ -28,3 +28,11 @@ The app reads the current state from the contract and displays the global mood p
 ## Tech Stack
 
 - Next.js App Router
+- TypeScript
+- Wagmi
+- Viem
+- Tailwind CSS
+
+## Contract
+
+The app is configured to use the following Base contract:
