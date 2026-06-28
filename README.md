@@ -20,3 +20,11 @@ The app reads the current state from the contract and displays the global mood p
 - Release energy for your selected mood.
 - Boost any mood.
 - Reset your current state.
+- View the global power board.
+- Interact with a deployed Base contract.
+- Use native Wagmi wallet configuration.
+- Run as a Next.js App Router project.
+
+## Tech Stack
+
+- Next.js App Router
